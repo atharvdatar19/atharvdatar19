@@ -96,7 +96,7 @@ atharv = {
 
 <div align="center">
 
-> *"Code is my weapon. Nation is my motivation. People are my purpose."*
+> *" Nation is my motivation. People are my purpose."*
 > — **Atharv Datar**
 
 </div>
