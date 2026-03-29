@@ -1,107 +1,121 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Atharv%20Datar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=⚡%20Vibe%20Coder%20%7C%20🛡️%20Cyber%20Defender%20%7C%20🇮🇳%20Nation%20Builder&descAlignY=60&descSize=18" width="100%" />
+<!-- MAIN HERO BANNER - Big name like portfolio -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,50:0d0d2b,100:0a0a1a&height=280&text=ATHARV%20DATAR&fontSize=90&fontColor=ffffff&fontAlignY=45&desc=VIBE%20CODER%20%E2%80%A2%20CYBER%20DEFENDER%20%E2%80%A2%20ENTREPRENEURIAL%20THINKER&descSize=15&descAlignY=68&descColor=00f5ff&animation=fadeIn&stroke=00f5ff&strokeWidth=1" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=🛡️+CSE+Cybersecurity+%26+Digital+Forensics+@+VIT+Bhopal;🚀+Vibe+Coder+with+Entrepreneurial+Fire;🇮🇳+Nation-Driven+%7C+Defence-First+%7C+Impact-Always;💡+Building+for+the+Good+People;🤝+Always+Open+to+Collab+%26+Create!" alt="Typing SVG" />
+<!-- AVAILABLE BADGE -->
+<br/>
+<img src="https://img.shields.io/badge/%E2%97%8F%20AVAILABLE%20FOR%20WORK%20%26%20COLLABORATION-0a0a1a?style=for-the-badge&logoColor=00f5ff&color=0a0a1a&labelColor=0a0a1a&border=1" />
+
+<br/><br/>
+
+<!-- TYPING LINE - monospace tagline like the portfolio -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=1st+Year+CSE+%E2%80%94+Cybersecurity+%26+Digital+Forensics+%40+VIT+Bhopal;%F0%9F%87%AE%F0%9F%87%B3+Nation-Driven+%C2%B7+Defence-First+%C2%B7+Building+for+the+Good+People;%F0%9F%9A%80+Vibe+Coder+with+Entrepreneurial+Fire;%F0%9F%A4%9D+Always+Open+to+Collaborate+%26+Create!" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- BUTTONS ROW matching portfolio style -->
+[![GET IN TOUCH](https://img.shields.io/badge/GET%20IN%20TOUCH-00f5ff?style=for-the-badge&labelColor=00f5ff&color=00f5ff&logo=gmail&logoColor=0a0a1a)](mailto:atharvd10166@gmail.com)
+&nbsp;&nbsp;
+[![VIEW WORK](https://img.shields.io/badge/VIEW%20WORK-0a0a1a?style=for-the-badge&labelColor=0a0a1a&color=0a0a1a&logo=github&logoColor=00f5ff&border=00f5ff)](https://github.com/atharvdatar19)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=atharvdatar19&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=atharvdatar19&label=Profile+Views&color=0a0a1a&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/atharvdatar19?label=Followers&style=for-the-badge&color=0e75b6" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/followers/atharvdatar19?label=Followers&style=for-the-badge&color=0a0a1a&labelColor=0d0d2b" />
 
 </div>
 
-<br/>
+---
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## 🧠 `whoami`
+## `whoami`
 
-<img align="right" alt="Coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```bash
-┌──(atharv㉿cyberspace)-[~/life]
-└─$ cat about_me.sh
-
-  Name       :  Atharv Datar
-  University :  VIT Bhopal University
-  Degree     :  B.Tech CSE
-  Branch     :  Cybersecurity & Digital Forensics
-  Year       :  1st Year (2025–2029)
-  Location   :  Bhopal, India 🇮🇳
-
-  Identity   :
-    ├── ⚡  Vibe Coder
-    ├── 💼  Entrepreneurial Mindset
-    ├── 🛡️  Defence & Nation Enthusiast
-    └── 🤝  Leadership & Collaboration
-
-  Mission    :  "For the betterment of good people."
-  Status     :  🟢 Open to Work & Collaborate
+```python
+atharv = {
+    "name"       : "Atharv Datar",
+    "university" : "VIT Bhopal University",
+    "degree"     : "B.Tech CSE — Cybersecurity & Digital Forensics",
+    "year"       : "1st Year (2025–2029)",
+    "location"   : "Bhopal, India 🇮🇳",
+    "identity"   : [
+        "Vibe Coder ⚡",
+        "Entrepreneurial Mindset 💼",
+        "Nation Builder 🇮🇳",
+        "Defence Enthusiast 🛡️",
+        "Leadership Enthusiast 🤝",
+    ],
+    "mission"    : "Working for the betterment of the good people.",
+    "available"  : True   # Always open to collab & opportunities!
+}
 ```
 
-<br clear="right"/>
+---
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,supabase,github,vscode,linux,git&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,postgres,supabase,github,vscode,git&theme=dark&perline=6" />
 
 <br/><br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-1a1a2e?style=for-the-badge&logo=gnuprivacyguard&logoColor=00F5FF)
-![Network Security](https://img.shields.io/badge/Network%20Security-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a0a1a?style=for-the-badge&logo=python&logoColor=00f5ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a1a?style=for-the-badge&logo=postgresql&logoColor=00f5ff)
+![Supabase](https://img.shields.io/badge/Supabase-0a0a1a?style=for-the-badge&logo=supabase&logoColor=00f5ff)
+![Git](https://img.shields.io/badge/Git-0a0a1a?style=for-the-badge&logo=git&logoColor=00f5ff)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=00f5ff)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a0a1a?style=for-the-badge&logo=hackthebox&logoColor=00f5ff)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-0a0a1a?style=for-the-badge&logo=gnuprivacyguard&logoColor=00f5ff)
 
 </div>
 
+---
+
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 📊 GitHub Battle Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=atharvdatar19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvdatar19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=atharvdatar19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true" height="195px"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvdatar19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=00f5ff&text_color=ffffff" height="195px"/>
 
 <br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=atharvdatar19&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&stroke=0d1117" />
+<img src="https://streak-stats.demolab.com?user=atharvdatar19&theme=tokyonight&hide_border=true&background=0a0a1a&ring=00f5ff&fire=ff6b35&currStreakLabel=00f5ff&stroke=0a0a1a" width="60%"/>
 
 </div>
 
+---
+
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=atharvdatar19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=atharvdatar19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Activity Graph
+---
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvdatar19&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&area_color=1a1a4e" width="100%" />
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 💡 The Creed
 
@@ -121,15 +135,21 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🤝 Let's Connect & Build!
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvdatar19)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharvdatar19)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:22.25bcy10130@vitbhopal.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://www.linkedin.com/in/atharv-datar-185817299)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/atharvdatar19)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=00f5ff)](mailto:atharvd10166@gmail.com)
 
 <br/>
 
@@ -137,6 +157,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,100:0d0d2b&height=60&section=footer&text=ATHARV%20DATAR%20%C2%B7%20atharvdatar19&fontSize=14&fontColor=00f5ff&animation=fadeIn" width="100%"/>
 
 </div>
