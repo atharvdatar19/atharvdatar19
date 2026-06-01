@@ -1,124 +1,217 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Atharv%20Datar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Vibe%20Coder%20%7C%20Nation%20Builder%20%7C%20Leadership%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,40:2a0a0a,80:1a0000,100:0d0000&height=280&section=header&text=ATHARV%20DATAR&fontSize=72&fontColor=ff2244&fontAlignY=40&desc=Cybersecurity%20%E2%80%A2%20Digital%20Forensics%20%E2%80%A2%20Nation%20Builder&descAlignY=62&descSize=17&animation=blinking&stroke=ff2244&strokeWidth=2" width="100%"/>
 
-<!-- Typing Animation -->
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=🛡️+Cybersecurity+%26+Digital+Forensics+@+VIT+Bhopal;🚀+Vibe+Coder+with+an+Entrepreneurial+Mindset;🇮🇳+Nation-Driven+%7C+Defence-Driven+%7C+Impact-First;💡+Building+for+the+Good+People;🤝+Always+Open+to+Collaborate+%26+Create!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=800&color=FF2244&background=00000000&center=true&vCenter=true&width=750&lines=🛡️+B.Tech+CSE+%7C+Cybersecurity+%26+Digital+Forensics;🔍+Breaking+Things+to+Understand+How+They+Work;🇮🇳+Nation-Driven+%7C+Mission-First+%7C+Impact-Obsessed;⚡+Vibe+Coder+%7C+Open+Source+Believer;🚀+1st+Year+%7C+Infinite+Hunger" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=atharvdatar19&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
+<!-- Status Badges -->
+<img src="https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-ff2244?style=for-the-badge&labelColor=0a0a0a&color=ff2244" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/atharvdatar19?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/LOCATION-VIT_BHOPAL-blue?style=for-the-badge&labelColor=0a0a0a&color=0077ff" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=atharvdatar19&label=PROFILE+VIEWS&color=ff6600&style=for-the-badge&labelColor=0a0a0a" />
 
 </div>
 
+<br/>
+
 ---
 
-## 🧠 Who Am I?
+<div align="center">
 
-```python
-atharv = {
-    "name"       : "Atharv Datar",
-    "university" : "VIT Bhopal University",
-    "degree"     : "B.Tech CSE — Cybersecurity & Digital Forensics",
-    "year"       : "1st Year",
-    "identity"   : ["Vibe Coder 🎧", "Entrepreneur at Heart 💼", 
-                    "Nation Builder 🇮🇳", "Defence Enthusiast 🛡️"],
-    "mission"    : "Working for the betterment of the good people.",
-    "available"  : True  # Always open to collab & opportunities!
+## ⚡ `$ whoami`
+
+</div>
+
+```bash
+┌──(atharv㉿vitbhopal)-[~]
+└─$ cat identity.json
+```
+
+```json
+{
+  "name"       : "Atharv Datar",
+  "alias"      : "0xAtharv",
+  "university" : "VIT Bhopal University",
+  "branch"     : "B.Tech CSE — Cybersecurity & Digital Forensics",
+  "year"       : "1st Year (but thinking 10 years ahead)",
+  "roles"      : [
+    "🎧 Vibe Coder",
+    "🛡️ Cyber Defender",
+    "💼 Entrepreneur at Heart",
+    "🇮🇳 Nation Builder",
+    "🔬 Digital Forensics Learner"
+  ],
+  "currently"  : "Breaking things, learning faster, building smarter.",
+  "mission"    : "Working for the betterment of good people.",
+  "open_to"    : ["collabs", "open-source", "internships", "ideas"],
+  "status"     : "AVAILABLE ✅"
 }
+```
+
+```bash
+┌──(atharv㉿vitbhopal)-[~]
+└─$ _
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎯 What I'm Up To
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Currently
+- 🧠 Learning **Network Security & CTF Challenges**
+- 🛠️ Building tools with **Python + Supabase**
+- 📖 Deep diving into **Linux internals & Bash scripting**
+- 🔐 Exploring **OSINT & Digital Forensics workflows**
+
+</td>
+<td width="50%">
+
+### 🌱 Growing Into
+- 🕵️ **Ethical Hacking & Penetration Testing**
+- ☁️ **Cloud Security (AWS/GCP)**
+- 🤖 **AI × Cybersecurity intersection**
+- 🚀 **Building impactful open-source projects**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Arsenal
 
 <div align="center">
 
-### 💻 Languages & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🔤 Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### ☁️ Platforms & Tools
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🧰 Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔐 Domain Focus
+### 🔐 Cybersecurity Focus
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-1a1a2e?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-FF6600?style=for-the-badge&logo=tor-browser&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF_Player-9B59B6?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Battlefield
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atharvdatar19&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=302b63&text_color=ffffff" height="180px"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvdatar19&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=ffffff" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atharvdatar19&show_icons=true&theme=dark&border_radius=10&hide_border=false&bg_color=0d1117&title_color=ff2244&icon_color=ff2244&text_color=ffffff&border_color=ff224440" height="175px"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvdatar19&layout=compact&theme=dark&border_radius=10&hide_border=false&bg_color=0d1117&title_color=ff2244&text_color=ffffff&border_color=ff224440" height="175px"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvdatar19&theme=tokyonight&border_radius=12&hide_border=true&background=0d1117&stroke=302b63&ring=00F5FF&fire=ff6e00&currStreakLabel=00F5FF" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvdatar19&theme=dark&border_radius=10&hide_border=false&background=0d1117&stroke=ff224440&ring=ff2244&fire=cc0011&currStreakLabel=ff2244&sideLabels=ff2244&dates=888888&border=ff224440" width="55%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophy Room
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=atharvdatar19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=atharvdatar19&theme=radical&no-frame=false&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
 </div>
 
 ---
 
-## 🌐 Activity Graph
+## 📈 Contribution Pulse
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvdatar19&bg_color=0d1117&color=00F5FF&line=302b63&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvdatar19&bg_color=0d1117&color=ff2244&line=ff2244&point=ffffff&area=true&area_color=ff224420&hide_border=false&border_color=ff224440&custom_title=Atharv's%20Contribution%20Graph" width="100%"/>
 </div>
 
 ---
 
-## 💡 My Philosophy
+## 🧭 Values I Code By
 
 <div align="center">
 
-> *" Nation is my motivation. People are my purpose."*
-> — **Atharv Datar**
+| 🛡️ Principle | 💬 What It Means |
+|---|---|
+| **Nation First** | Every line of code should serve the country in some way |
+| **People Over Profit** | Build for the good people, not for the billboards |
+| **Break to Build** | Understand systems by stress-testing them |
+| **Learn in Public** | Share the journey — the struggles AND the wins |
+| **Ship, Don't Sip** | Done beats perfect. Always. |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Build Together
+## 🎵 Vibe While Coding
+
+```
+Now Playing 🎧
+╔════════════════════════════════════════╗
+║  Midnight Lofi × Synthwave             ║
+║  ▶  Deep Focus — Nation Mode ON 🇮🇳    ║
+║  ━━━━━━━━━━━━━━━━━━━━━━━  🔊           ║
+║  Volume: MAX  |  Distraction: ZERO     ║
+╚════════════════════════════════════════╝
+```
+
+---
+
+## 🤝 Let's Build Something Real
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvdatar19)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharvdatar19)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvdatar19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvdatar19)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharvdatar19)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvdatar19@gmail.com)
 
 <br/>
 
-**🟢 Open to Work &nbsp;|&nbsp; 🤝 Open to Collaborate &nbsp;|&nbsp; 🇮🇳 Nation-First Always**
+```
+If you're building for the nation, securing the web,
+or just vibing over open-source — let's talk.
+```
+
+<br/>
+
+**🟢 Open to Work &nbsp;•&nbsp; 🤝 Open to Collaborate &nbsp;•&nbsp; 🇮🇳 Nation-First. Always.**
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+> *"Nation is my motivation. People are my purpose."*
+> **— Atharv Datar**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:1a0000,100:2a0000&height=140&section=footer&text=Keep+Securing.+Keep+Serving.+🇮🇳&fontSize=20&fontColor=ff2244&fontAlignY=65&animation=twinkling" width="100%"/>
+
 </div>
